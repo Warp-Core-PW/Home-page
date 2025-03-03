@@ -1,2 +1,2 @@
 # Home-page
-home page for warpcore, warpload, warpforge, warpii, and impact
+home page for warpcore, warpload, warper, warpforge, warpii, and impact
